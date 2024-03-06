@@ -3,5 +3,6 @@ streamlit
 PyPDF
 google-generativeai
 python-dotenv
+ipykernel
 
 -e .
