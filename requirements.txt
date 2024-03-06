@@ -1,1 +1,7 @@
 #./.venv/Scripts/activate
+streamlit
+PyPDF
+google-generativeai
+python-dotenv
+
+-e .
